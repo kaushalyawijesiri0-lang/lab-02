@@ -1,1 +1,2 @@
-# lab-02
+# Git_lab
+Lab session tutorial 
